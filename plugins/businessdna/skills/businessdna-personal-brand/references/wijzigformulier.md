@@ -26,9 +26,17 @@ niet te gokken wat ze nog meer wil.
 
 ## Hoe je het toont
 
-Gebruik de tool waarmee je een interactief blok in de chat zet (in de Claude-app heet die
-`show_widget`; lees eerst de instructies met `read_me` en de module `elicitation`). Zet er
-één korte zin boven, bijvoorbeeld:
+Toon het formulier met `show_widget`: de tool waarmee Claude een interactief blok in de chat
+zet (de visualize-tool). Lees eerst de instructies met `read_me`, met de module `elicitation`.
+Zie je `show_widget` niet meteen in je lijst met tools, zoek hem dan eerst op (bijvoorbeeld met
+tool search op "show_widget" of "visualize"). Pas als hij dan ook niet bestaat, kan het formulier
+niet.
+
+Gebruik hiervoor **niet** het vraagvenster met keuzeknoppen (AskUserQuestion, of "Wat wil je
+aanpassen?" met genummerde opties). Daarin kiest de gebruiker maar één ding tegelijk en kan ze
+geen bestanden toevoegen. Dat is precies wat dit formulier oplost.
+
+Zet er één korte zin boven, bijvoorbeeld:
 
 > "Je Personal Brand-document staat er al. Vink hieronder aan wat je wilt, dan gaan we meteen aan de
 > slag."
@@ -130,8 +138,8 @@ volledige document, zoals in `notion-protocol.md` staat.
 
 **"Liever in de chat"** — ga door met de gewone volgorde: Fase 1 en Fase 2, elke vraag apart.
 
-**Geen tool voor interactieve blokken** (de gebruiker werkt ergens waar dat niet kan), stel dan
-dezelfde vragen in één bericht, als tekst:
+**Bestaat `show_widget` niet**, ook niet na zoeken, stel dan dezelfde vragen in één bericht,
+als tekst. Ook dan niet via het vraagvenster met keuzeknoppen:
 
 > "Je Personal Brand-document staat er al. Vertel me in één keer:
 >

@@ -49,7 +49,8 @@ leeg blijven — ook sectie 5 niet.
 Altijd je eerste vraag.
 
 **Staat er al een Product Ladder-document in Notion, dan stel je deze vraag niet los.** Je
-toont het wijzigformulier uit `references/wijzigformulier.md`: daarin kiest de gebruiker in
+toont het wijzigformulier uit `references/wijzigformulier.md` (met `show_widget`,
+niet met het vraagvenster met keuzeknoppen): daarin kiest de gebruiker in
 één keer aanpassen of opnieuw maken, de secties, wat er anders moet en haar materiaal. Dat
 formulier vervangt Fase 1 en Fase 2. Is de pagina nog leeg, dan stel je de vraag hieronder.
 

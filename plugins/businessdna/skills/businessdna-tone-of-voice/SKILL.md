@@ -74,7 +74,8 @@ over. Wie in Claude Content Studio werkt, heeft het document voor social content
 dat er nog niet, dan is deze vraag de enige plek waar het ontstaat.
 
 **Staat er al een Tone of Voice-document in Notion, dan stel je deze vraag niet los.** Je
-toont het wijzigformulier uit `references/wijzigformulier.md`. Daarin zit deze vraag al (de
+toont het wijzigformulier uit `references/wijzigformulier.md` (met `show_widget`,
+niet met het vraagvenster met keuzeknoppen). Daarin zit deze vraag al (de
 onderdelen om aan te vinken), samen met aanpassen of opnieuw maken, wat er anders moet en het
 uploaden van voorbeelden. Dat formulier vervangt Fase 1, Fase 2 en de materiaalvraag uit
 Fase 3. Is de pagina nog leeg, dan stel je de vraag hieronder.
