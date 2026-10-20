@@ -7,7 +7,7 @@ description: >
   Jobs To Be Done en de Empathy Map. Leest reviews, klantgesprekken en testimonials uit en
   stelt alleen vragen over wat ontbreekt. TRIGGERS op @businessdna-ideal-client, "business
   dna ideal client", "ideale klant document", "klantprofiel maken", "ideal client
-  aanvullen", of elke vraag over het vastleggen van het ideale klantprofiel in Business DNA.
+  aanvullen", "ideal client wijzigen", "ideal client aanpassen", of elke vraag over het vastleggen van het ideale klantprofiel in Business DNA.
 ---
 
 # Business DNA - Ideal Client

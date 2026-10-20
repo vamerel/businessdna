@@ -6,7 +6,7 @@ description: >
   menselijke kant, vormend verhaal, missie en visie), opgebouwd volgens de Golden Circle
   en de twaalf merkarchetypen. Leest aangeleverd materiaal uit en stelt alleen vragen over
   wat ontbreekt. TRIGGERS op @businessdna-personal-brand, "business dna personal brand",
-  "personal brand document maken", "personal brand aanvullen", of elke vraag over het
+  "personal brand document maken", "personal brand aanvullen", "personal brand wijzigen", "personal brand aanpassen", of elke vraag over het
   opstellen of bijwerken van een persoonlijk merkdocument in Business DNA.
 ---
 

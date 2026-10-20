@@ -10,7 +10,7 @@ description: >
   echte contentvoorbeelden en leest de vier andere Business DNA-documenten uit. TRIGGERS op
   @businessdna-tone-of-voice, "business dna tone of voice", "tone of voice document",
   "schrijfstijl vastleggen", "tone of voice per kanaal", "tone of voice voor mijn
-  salespagina", "tone of voice aanvullen", of elke vraag over het documenteren van de merkstem
+  salespagina", "tone of voice aanvullen", "tone of voice wijzigen", "tone of voice aanpassen", of elke vraag over het documenteren van de merkstem
   in Business DNA.
 ---
 

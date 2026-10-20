@@ -6,7 +6,7 @@ description: >
   klantfase per trede, gaten in de ladder), opgebouwd volgens de Value Ladder. Leest het
   Ideal Client-document uit en levert een gatenanalyse op het bestaande aanbod. TRIGGERS op
   @businessdna-product-ladder, "business dna product ladder", "product ladder maken",
-  "aanbodladder", "aanbod in kaart brengen", "product ladder aanvullen", of elke vraag over
+  "aanbodladder", "aanbod in kaart brengen", "product ladder aanvullen", "product ladder wijzigen", "aanbod aanpassen", of elke vraag over
   het vastleggen van de aanbodstructuur in Business DNA.
 ---
 

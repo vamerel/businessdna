@@ -7,7 +7,7 @@ description: >
   Leest Personal Brand, Ideal Client en Product Ladder uit en vertaalt die naar een
   marktpositie. TRIGGERS op @businessdna-brand-positioning, "business dna brand
   positioning", "positionering bepalen", "positioneringsstrategie", "brand positioning
-  aanvullen", of elke vraag over het vastleggen van de marktpositie in Business DNA.
+  aanvullen", "brand positioning wijzigen", "positionering aanpassen", of elke vraag over het vastleggen van de marktpositie in Business DNA.
 ---
 
 # Business DNA - Brand Positioning
