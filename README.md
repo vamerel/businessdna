@@ -7,7 +7,7 @@ De installatie-instructies en de uitleg vind je in de leeromgeving van de traini
 
 ## Kort
 
-- Voeg in de Claude-app de marketplace `vamerel/claude-plugins` toe en installeer
+- Voeg in de Claude-app de marketplace `vamerel/businessdna` toe en installeer
   `businessdna`.
 - Zet automatisch synchroniseren aan, dan krijg je nieuwe versies vanzelf.
 
