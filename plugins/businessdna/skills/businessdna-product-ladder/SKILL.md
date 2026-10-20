@@ -48,6 +48,11 @@ leeg blijven — ook sectie 5 niet.
 
 Altijd je eerste vraag.
 
+**Staat er al een Product Ladder-document in Notion, dan stel je deze vraag niet los.** Je
+toont het wijzigformulier uit `references/wijzigformulier.md`: daarin kiest de gebruiker in
+één keer aanpassen of opnieuw maken, de secties, wat er anders moet en haar materiaal. Dat
+formulier vervangt Fase 1 en Fase 2. Is de pagina nog leeg, dan stel je de vraag hieronder.
+
 > "Wil je een nieuw Product Ladder-document maken, of een bestaande aanvullen?"
 
 Volg daarna `references/notion-protocol.md`.
@@ -321,6 +326,7 @@ Sluit af met de vervolgstap, als vraag:
 - Een bericht afsluiten waarna onduidelijk is wat er nu moet gebeuren.
 - Iets in `SAMENVATTING.md` schrijven of de gebruiker iets over `SAMENVATTING.md` beloven.
 - Afronden zonder te vragen of ze door wil met het volgende document.
+- Losse vragen stellen terwijl er al een document staat en het wijzigformulier kan.
 - Bestanden uit `references/` of bestanden die met `internal_` beginnen noemen.
 
 ---
@@ -333,3 +339,4 @@ Sluit af met de vervolgstap, als vraag:
 | `references/vragen.md` | Vragen per sectie, plus de extra routevraag |
 | `references/notion-protocol.md` | Omgeving vinden, routes, wegschrijven |
 | `references/rommelige-input.md` | Verwerken van ingesproken of associatieve input |
+| `references/wijzigformulier.md` | Het formulier waarmee je begint als er al een document staat, en wat je met de antwoorden doet |

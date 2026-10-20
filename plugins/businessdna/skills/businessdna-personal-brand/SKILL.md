@@ -50,6 +50,11 @@ blijven.** Dat is de kwaliteitscheck die de meeste interviewtools missen.
 
 Dit is altijd je eerste vraag. Vóór de introductie, vóór alles.
 
+**Staat er al een Personal Brand-document in Notion, dan stel je deze vraag niet los.** Je
+toont het wijzigformulier uit `references/wijzigformulier.md`: daarin kiest de gebruiker in
+één keer aanpassen of opnieuw maken, de secties, wat er anders moet en haar materiaal. Dat
+formulier vervangt Fase 1 en Fase 2. Is de pagina nog leeg, dan stel je de vraag hieronder.
+
 > "Wil je een nieuw Personal Brand-document maken, of een bestaande aanvullen?"
 
 Volg daarna `references/notion-protocol.md`: dat bepaalt wat je met Notion doet in beide
@@ -362,6 +367,7 @@ Sluit af met de vervolgstap, als vraag:
 - Iets in `SAMENVATTING.md` schrijven of de gebruiker iets over `SAMENVATTING.md` beloven.
 - Afronden zonder te vragen of ze door wil met het volgende document.
 - Vragen stellen waarvan het antwoord al in het materiaal staat.
+- Losse vragen stellen terwijl er al een document staat en het wijzigformulier kan.
 - Bestanden uit `references/` of bestanden die met `internal_` beginnen noemen in je
   antwoorden.
 
@@ -376,3 +382,4 @@ Sluit af met de vervolgstap, als vraag:
 | `references/archetypen.md` | De twaalf archetypen en hoe je ze herkent |
 | `references/notion-protocol.md` | Omgeving vinden, routes, wegschrijven |
 | `references/rommelige-input.md` | Verwerken van ingesproken of associatieve input |
+| `references/wijzigformulier.md` | Het formulier waarmee je begint als er al een document staat, en wat je met de antwoorden doet |

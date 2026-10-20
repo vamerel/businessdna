@@ -53,6 +53,10 @@ Maak hem alleen aan na een expliciet ja.
 
 Altijd de eerste vraag, vóór alles.
 
+Staat er al inhoud op de pagina, dan stel je deze vraag via het wijzigformulier uit
+`wijzigformulier.md`, samen met de materiaalvraag. Kiest de gebruiker daar **opnieuw maken**,
+dan bewaar je het oude altijd eerst als kopie (optie 1 hieronder), zonder het te vragen.
+
 > "Wil je een nieuw Personal Brand-document maken, of een bestaande aanvullen?"
 
 **Nieuw** → kijk of er al inhoud op de pagina staat. Zo ja:

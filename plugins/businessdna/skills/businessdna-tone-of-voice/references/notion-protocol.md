@@ -76,6 +76,10 @@ keer, en ga verder:
 
 ## Stap 1: nieuw of aanvullen
 
+Staat er al inhoud op de pagina, dan stel je deze vraag via het wijzigformulier uit
+`wijzigformulier.md`, samen met de materiaalvraag. Kiest de gebruiker daar **opnieuw maken**,
+dan bewaar je het oude altijd eerst als kopie (optie 1 hieronder), zonder het te vragen.
+
 De tweede vraag, direct na de reikwijdte.
 
 > "Wil je een nieuw Tone of Voice-document maken, of een bestaande aanvullen?"

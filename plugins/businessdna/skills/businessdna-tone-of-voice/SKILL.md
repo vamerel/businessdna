@@ -73,6 +73,12 @@ ook als je denkt het antwoord al te weten: eerst deze vraag, dan pas de rest. Sl
 over. Wie in Claude Content Studio werkt, heeft het document voor social content nodig; is
 dat er nog niet, dan is deze vraag de enige plek waar het ontstaat.
 
+**Staat er al een Tone of Voice-document in Notion, dan stel je deze vraag niet los.** Je
+toont het wijzigformulier uit `references/wijzigformulier.md`. Daarin zit deze vraag al (de
+onderdelen om aan te vinken), samen met aanpassen of opnieuw maken, wat er anders moet en het
+uploaden van voorbeelden. Dat formulier vervangt Fase 1, Fase 2 en de materiaalvraag uit
+Fase 3. Is de pagina nog leeg, dan stel je de vraag hieronder.
+
 > "Voor we beginnen: waarvoor wil je een tone of voice vastleggen?
 >
 > 1. **Algemeen** — één tone of voice voor alles wat je schrijft. Klaar.
@@ -509,6 +515,7 @@ Dit is het laatste document. Sluit af, in twee delen in één bericht:
 - Een bericht afsluiten waarna onduidelijk is wat er nu moet gebeuren.
 - Iets in `SAMENVATTING.md` schrijven of de gebruiker iets over `SAMENVATTING.md` beloven.
 - Aan het eind zaken aankaarten die buiten dit document vallen.
+- Losse vragen stellen terwijl er al een document staat en het wijzigformulier kan.
 - Bestanden uit `references/` of bestanden die met `internal_` beginnen noemen.
 
 ---
@@ -522,3 +529,4 @@ Dit is het laatste document. Sluit af, in twee delen in één bericht:
 | `references/vragen.md` | De reikwijdtevraag, de materiaalvraag, en wat je aflees en vraagt per sectie en per module |
 | `references/notion-protocol.md` | Omgeving vinden, routes, wegschrijven naar meerdere pagina's |
 | `references/rommelige-input.md` | Verwerken van ingesproken of associatieve input |
+| `references/wijzigformulier.md` | Het formulier waarmee je begint als er al een document staat, en wat je met de antwoorden doet |
