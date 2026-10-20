@@ -4,23 +4,13 @@
     "name": "VA-Merel"
   },
   "metadata": {
-    "description": "De plugins van VA-Merel: Business DNA, Claude Content Studio en het Content Design System."
+    "description": "Business DNA van VA-Merel: de plugin die je merk-DNA vastlegt in Notion."
   },
   "plugins": [
     {
       "name": "businessdna",
       "source": "./plugins/businessdna",
       "description": "Business DNA: zeven skills die samen jouw merk-DNA vastleggen in Notion. Installeren in Chat & Cowork."
-    },
-    {
-      "name": "content-studio",
-      "source": "./plugins/content-studio",
-      "description": "Claude Content Studio: haakjes, captions, ideeën bewaren en automatisch publiceren, op basis van je Business DNA. Installeren in Chat & Cowork."
-    },
-    {
-      "name": "content-designsystem",
-      "source": "./plugins/content-designsystem",
-      "description": "Content Design System: de skill @designsystem voor Claude Content Studio. Alleen installeren in Claude Code."
     }
   ]
 }
