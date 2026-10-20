@@ -78,4 +78,5 @@ Studio maakt daar een eigen map Business Brand Guidelines voor aan.
 
 `SAMENVATTING.md` is de korte versie: het bestand dat je in een andere AI-chat sleept als je niet je
 hele merk-DNA wilt meesturen. De skills vullen hem niet tussentijds — hij wordt in één keer
-opgebouwd als alle vijf de documenten compleet zijn.
+opgebouwd als alle vijf de documenten compleet zijn. Je maakt hem met de prompt uit de les
+De korte versie maken, en opnieuw na elke wijziging.
