@@ -1,7 +1,7 @@
 # Business DNA
 
-Zeven skills die samen jouw merk-DNA vastleggen in je eigen Notion. Elk document is
-gebouwd op erkende marketingmodellen, niet op een losse vragenlijst.
+Zeven skills die samen jouw merk-DNA vastleggen in je eigen Notion, plus twee bonusskills.
+Elk document is gebouwd op erkende marketingmodellen, niet op een losse vragenlijst.
 
 ## Wat zit erin
 
@@ -14,6 +14,21 @@ gebouwd op erkende marketingmodellen, niet op een losse vragenlijst.
 | `businessdna-brand-positioning` | Brand Positioning | STP + Blue Ocean (ERRC) |
 | `businessdna-tone-of-voice` | Tone of Voice, plus optioneel een document per kanaal (salespagina's, social content, e-mails en DM's) | vier toon-dimensies |
 | `businessdna-review` | controleert alle vijf in samenhang | - |
+
+### Bonusskills
+
+| Skill | Wat hij doet |
+|---|---|
+| `projectinstructies` | schrijft samen met jou de instructies voor een Claude-project, volgens RECEPT, als plakblok |
+| `promptstructuur` | schrijft samen met jou een prompt volgens RECEPT (ook voor design), in één kopieerblok |
+
+Je roept ze aan met "projectinstructies" of "schrijf een prompt". Ze staan los van de
+merkdocumenten en werken ook als je Business DNA nog niet af hebt.
+
+## Updates
+
+Zet bij de marketplace automatisch synchroniseren aan. Verbeter ik de plugin, dan krijg je
+de nieuwe versie vanzelf in Claude; je hoeft niets opnieuw te installeren.
 
 ## Zo werk je ermee
 
