@@ -1,7 +1,8 @@
 # Business DNA van VA-Merel
 
 Deze marketplace bevat de plugin `businessdna`: zeven skills die je merk-DNA vastleggen in
-Notion. Installeren in Chat & Cowork.
+Notion, plus twee bonusskills (Projectinstructies en Promptstructuur). Installeren in Chat &
+Cowork.
 
 De installatie-instructies en de uitleg vind je in de leeromgeving van de training.
 

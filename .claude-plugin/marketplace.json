@@ -10,7 +10,7 @@
     {
       "name": "businessdna",
       "source": "./plugins/businessdna",
-      "description": "Business DNA: zeven skills die samen jouw merk-DNA vastleggen in Notion. Installeren in Chat & Cowork."
+      "description": "Business DNA: zeven skills die samen jouw merk-DNA vastleggen in Notion, plus twee bonusskills: Projectinstructies en Promptstructuur. Installeren in Chat & Cowork."
     }
   ]
 }
