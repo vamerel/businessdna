@@ -11,7 +11,7 @@ toevoegen. Dat is sneller en overzichtelijker dan vier vragen na elkaar.
 
 1. Vind eerst de pagina, zoals in `notion-protocol.md` onder "Bij de start". Zeg nog niets.
 2. Kijk welke documenten er al inhoud hebben: de basis, en de subpagina's per kanaal.
-3. **Heeft de basis inhoud**, toon dan het formulier. Het vervangt de reikwijdtevraag (Fase 1),
+3. **Heeft de basis inhoud**, toon dan het formulier. Het vervangt Fase 1,
    de vraag nieuw of aanvullen (Fase 2) en de materiaalvraag (Fase 3) in één keer.
 4. **Is de pagina leeg**, dan is er niets te wijzigen. Geen formulier; begin gewoon bij Fase 1.
 
@@ -120,7 +120,7 @@ De antwoorden komen als één bericht binnen. Zet ze zo om:
 |---|---|
 | **Aanpassen** | De route "aanvullen": je loopt alleen de aangevinkte onderdelen langs. Per onderdeel laat je eerst zien wat er nu staat, en werk je bij met de toelichting en het nieuwe materiaal. Wat niet is aangevinkt, blijft zoals het is. |
 | **Opnieuw maken** | De route "nieuw" voor de aangevinkte onderdelen. Bewaar het oude eerst als kopie, zoals in `notion-protocol.md` onder "Nieuw" staat, zonder dat opnieuw te vragen: het formulier belooft dat de oude versie bewaard blijft. |
-| **Onderdelen** | Dit is de reikwijdte uit Fase 1. Algemeen is de basis, de andere drie zijn de kanaalmodules. Social media omvat ook het document met de vijf stijlvoorbeelden. |
+| **Onderdelen** | Dit is wat de gebruiker wil (Fase 1). Algemeen is de basis, de andere drie zijn de kanaalmodules. Social media omvat ook het document met de vijf stijlvoorbeelden. |
 | **Toelichting** | Je startpunt per onderdeel. Wat ze hier schrijft, hoef je niet nog eens te vragen. |
 | **Bestanden en geplakte tekst** | Dit is het materiaal uit Fase 3. Bestanden staan als bijlage in het gesprek; lees ze zoals elk ander aangeleverd bestand. Kijk daarnaast zelf in `CLAUDE/Business Copybank/`, zoals altijd. |
 
@@ -137,9 +137,6 @@ opnieuw.
 - Geen materiaal: geen probleem bij een kleine aanpassing. Bij opnieuw maken geldt wat in
   Fase 3 staat: voor dit document zijn echte teksten nodig.
 
-**Social content niet aangevinkt, en er is nog geen social-document**, geef dan één keer de
-waarschuwing uit Fase 1 over de caption-skill. Zegt ze nee, kom er niet op terug.
-
 **Kiest ze een kanaal dat nog geen eigen document heeft**, dan is dat kanaal nieuw, ook als ze
 "aanpassen" koos. Zeg dat in één zin en bouw het op.
 
@@ -151,8 +148,9 @@ volledige document, zoals in `notion-protocol.md` staat.
 
 ## Als het formulier niet kan
 
-**"Liever in de chat"** — ga door met de gewone volgorde: Fase 1, Fase 2 en Fase 3, elke vraag
-apart.
+**"Liever in de chat"**: vraag in tekst wat ze wil aanpassen (de basis, of een kanaal:
+social media, salespagina's of e-mails en DM's), en ga daarna door met Fase 2 en Fase 3, elke
+vraag apart.
 
 **Bestaat `show_widget` niet**, ook niet na zoeken, stel dan dezelfde vragen in één bericht,
 als tekst. Ook dan niet via het vraagvenster met keuzeknoppen:

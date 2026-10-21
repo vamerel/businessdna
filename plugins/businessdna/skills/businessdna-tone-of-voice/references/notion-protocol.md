@@ -22,7 +22,7 @@ De gebruiker heeft deze structuur zelf binnengehaald door de Business DNA-templa
 dupliceren. Jij maakt hem niet.
 
 Kijk meteen ook of er al kanaalpagina's onder Tone of Voice hangen (zie "Waar de
-kanaalmodules landen"). Dan weet je bij de reikwijdtevraag al wat er staat.
+kanaalmodules landen"). Dan weet je in Fase 1 al wat er staat.
 
 ### Geen verbinding met Notion
 
@@ -31,8 +31,8 @@ kanaalmodules landen"). Dan weet je bij de reikwijdtevraag al wat er staat.
 >
 > Wil je dat ik uitleg hoe je die connector instelt?"
 
-Bij ja: leg de stappen uit (Claude-instellingen → Connectors → Notion → verbinden → toegang
-geven → terugkomen). Ga daarna niet verder tot het gelukt is. Begin geen interview waarvan
+Bij ja: leg de stappen uit (in de Claude-app naar Aanpassingen (Customize) > Connectors,
+Notion zoeken, Verbinden, toegang geven, terugkomen). Ga daarna niet verder tot het gelukt is. Begin geen interview waarvan
 de uitkomst nergens heen kan.
 
 ### Business DNA niet gevonden
@@ -53,19 +53,17 @@ Maak hem alleen aan na een expliciet ja.
 
 ---
 
-## Stap 0: de reikwijdte
+## Stap 0: wat je maakt
 
-Dit is de allereerste vraag van de skill, nog vóór nieuw-of-aanvullen. De vraag zelf en hoe je
-hem stelt, staan in `vragen.md` onder "Vooraf: de reikwijdte".
+Dit bepaal je in Fase 1 van de skill, zonder er een vraag over te stellen. Zie ook `vragen.md`
+onder "Vooraf: wat je maakt".
 
-Wat de uitkomst bepaalt:
-
-| Keuze | Wat je maakt | Waar het landt |
+| Situatie | Wat je maakt | Waar het landt |
 |---|---|---|
-| Algemeen | alleen het basisdocument | de pagina **Tone of Voice** |
-| Algemeen plus kanalen | het basisdocument én één document per gekozen kanaal | de pagina **Tone of Voice**, plus een subpagina per kanaal |
+| Business DNA, geen kanaal gevraagd | alleen het basisdocument | de pagina **Tone of Voice** |
+| De gebruiker vraagt om een kanaal | het kanaaldocument, en eerst de basis als die er nog niet is | de pagina **Tone of Voice**, plus een subpagina per kanaal |
 
-Het basisdocument maak je altijd, ook als de gebruiker alleen om kanalen vraagt.
+Het basisdocument maak je altijd, ook als de gebruiker alleen om een kanaal vraagt.
 
 Staan er al kanaalpagina's die de gebruiker nu niet kiest, laat ze dan met rust. Noem ze één
 keer, en ga verder:
@@ -80,7 +78,7 @@ Staat er al inhoud op de pagina, dan stel je deze vraag via het wijzigformulier 
 `wijzigformulier.md`, samen met de materiaalvraag. Kiest de gebruiker daar **opnieuw maken**,
 dan bewaar je het oude altijd eerst als kopie (optie 1 hieronder), zonder het te vragen.
 
-De tweede vraag, direct na de reikwijdte.
+De eerste vraag, direct na Fase 1.
 
 > "Wil je een nieuw Tone of Voice-document maken, of een bestaande aanvullen?"
 
@@ -161,8 +159,7 @@ het andere. Het voorbeeldendocument maak je alleen bij de keuze social content, 
 samen met de module.
 
 Bestaat de subpagina al, gebruik hem. Bestaat hij niet, dan maak je hem aan — daar heb je geen
-aparte toestemming voor nodig, want de gebruiker heeft er bij de reikwijdtevraag al om
-gevraagd. Zeg wel wat je gaat aanmaken voordat je het doet.
+aparte toestemming voor nodig, want de gebruiker heeft er zelf om gevraagd. Zeg wel wat je gaat aanmaken voordat je het doet.
 
 Zet boven aan elke kanaalpagina één regel die naar de basis verwijst:
 

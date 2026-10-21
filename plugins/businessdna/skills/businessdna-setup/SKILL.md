@@ -54,7 +54,7 @@ Notion-connector actief:
 
 > "Zo koppel je Notion aan Claude:
 >
-> 1. Open de instellingen van Claude en ga naar Connectors.
+> 1. Ga in de Claude-app naar Aanpassingen (Customize) > Connectors.
 > 2. Zoek Notion in de lijst en klik op Verbinden.
 > 3. Je wordt naar Notion gestuurd om in te loggen.
 > 4. Notion vraagt welke pagina's Claude mag zien. Geef in elk geval toegang tot de plek
@@ -270,8 +270,8 @@ Begin bij een nieuwe poging niet opnieuw, maar ga verder waar je gebleven was.
 rechtenkwestie: de connector heeft geen toegang tot die plek in de workspace.
 
 > "De template staat er volgens jou wel, maar ik zie hem niet. Dat betekent meestal dat de
-> Notion-connector geen toegang heeft tot die plek. Ga in Claude naar Connectors, klik bij
-> Notion op de instellingen, en controleer welke pagina's gedeeld zijn."
+> Notion-connector geen toegang heeft tot die plek. Ga in de Claude-app naar Aanpassingen
+> (Customize) > Connectors, open Notion en controleer welke pagina's gedeeld zijn."
 
 ---
 

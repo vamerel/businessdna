@@ -1,9 +1,9 @@
 {
   "name": "businessdna",
-  "version": "0.11.0",
-  "description": "Business DNA: zeven skills die samen jouw merk-DNA vastleggen in Notion. Personal Brand, Tone of Voice (algemeen, en optioneel per kanaal: salespagina's, social content, e-mails en DM's), Ideal Client, Product Ladder en Brand Positioning, plus de setup die je Notion-omgeving en je map CLAUDE controleert en de review die alle vijf in samenhang controleert. Met twee bonusskills: Projectinstructies (elk Claude-project in één keer goed ingericht) en Promptstructuur (elke prompt volgens RECEPT). De basis onder Claude Content Studio.",
+  "version": "0.12.0",
+  "description": "Business DNA: zeven skills die samen jouw merk-DNA vastleggen in Notion. Personal Brand, Tone of Voice (algemeen, en op verzoek per kanaal: salespagina's, social content, e-mails en DM's), Ideal Client, Product Ladder en Brand Positioning, plus de setup die je Notion-omgeving en je map CLAUDE controleert en de review die alle vijf in samenhang controleert. Met twee bonusskills: Projectinstructies (elk Claude-project in één keer goed ingericht) en Promptstructuur (elke prompt volgens RECEPT). De basis onder Claude Content Studio.",
   "author": {
-    "name": "Merel"
+    "name": "VA-Merel"
   },
   "keywords": [
     "business dna",

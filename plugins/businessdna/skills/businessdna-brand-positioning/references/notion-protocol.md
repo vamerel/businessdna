@@ -27,8 +27,8 @@ dupliceren. Jij maakt hem niet.
 >
 > Wil je dat ik uitleg hoe je die connector instelt?"
 
-Bij ja: leg de stappen uit (Claude-instellingen → Connectors → Notion → verbinden → toegang
-geven → terugkomen). Ga daarna niet verder tot het gelukt is. Begin geen interview waarvan
+Bij ja: leg de stappen uit (in de Claude-app naar Aanpassingen (Customize) > Connectors,
+Notion zoeken, Verbinden, toegang geven, terugkomen). Ga daarna niet verder tot het gelukt is. Begin geen interview waarvan
 de uitkomst nergens heen kan.
 
 ### Business DNA niet gevonden

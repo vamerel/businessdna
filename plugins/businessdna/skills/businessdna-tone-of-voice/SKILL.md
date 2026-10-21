@@ -1,9 +1,10 @@
 ---
 name: businessdna-tone-of-voice
 description: >
-  Bouwt het Tone of Voice-document op de Business DNA-pagina in Notion. Begint met de vraag
-  waarvoor de tone of voice bedoeld is: algemeen, of daarnaast ook specifiek voor
-  salespagina's, social content en e-mails en DM's. Vraagt daarna om voorbeelden en templates.
+  Bouwt het Tone of Voice-document op de Business DNA-pagina in Notion. In Business DNA maakt
+  hij het algemene document, zonder kanaalvraag. Een kanaaldocument (salespagina's, social
+  content, e-mails en DM's) maakt hij alleen als je daarom vraagt, zoals vanuit Claude
+  Content Studio voor social content. Vraagt daarna om voorbeelden en templates.
   Levert het basisdocument in vijf vaste secties (toonprofiel op vier schalen, woordenschat,
   zinsbouw en ritme, aanspreekvorm en energie, wel-zo/niet-zo voorbeelden) en per gekozen
   kanaal een apart document waarin de vaste opbouwpatronen worden uitgetekend. Analyseert
@@ -45,7 +46,8 @@ Deze skill levert twee soorten documenten op:
   is, plus de vaste opbouwpatronen die alleen daar bestaan. Salespagina's, social content,
   e-mails en DM's.
 
-Wat de gebruiker krijgt, bepaalt zij zelf in Fase 1. **Het basisdocument maak je altijd**, ook
+Het basisdocument maak je in Business DNA. Een kanaaldocument maak je alleen als de gebruiker
+erom vraagt (Fase 1). **Het basisdocument maak je altijd**, ook
 als zij alleen om een kanaal vraagt: een kanaaldocument dat zegt "hier schrijf je korter" is
 zinloos als nergens staat waar het korter dan is.
 
@@ -65,52 +67,29 @@ niet, maar laat de gebruiker weten wat ze inlevert.
 
 ---
 
-## FASE 1: STAP 0 - WAARVOOR LEG JE DIT VAST
+## FASE 1: STAP 0 - WAT LEG JE VAST
 
-De allereerste vraag van deze skill, vóór alles. Ook als er al een Tone of Voice-document
-staat en de gebruiker wil aanvullen, ook als ze meteen materiaal of vijf posts aanlevert, en
-ook als je denkt het antwoord al te weten: eerst deze vraag, dan pas de rest. Sla hem nooit
-over. Wie in Claude Content Studio werkt, heeft het document voor social content nodig; is
-dat er nog niet, dan is deze vraag de enige plek waar het ontstaat.
+Bepaal dit vóór alles. Je stelt er geen aparte vraag over.
 
-**Staat er al een Tone of Voice-document in Notion, dan stel je deze vraag niet los.** Je
-toont het wijzigformulier uit `references/wijzigformulier.md` (met `show_widget`,
-niet met het vraagvenster met keuzeknoppen). Daarin zit deze vraag al (de
-onderdelen om aan te vinken), samen met aanpassen of opnieuw maken, wat er anders moet en het
-uploaden van voorbeelden. Dat formulier vervangt Fase 1, Fase 2 en de materiaalvraag uit
-Fase 3. Is de pagina nog leeg, dan stel je de vraag hieronder.
+**Staat er al een Tone of Voice-document in Notion,** dan toon je het wijzigformulier uit
+`references/wijzigformulier.md` (met `show_widget`, niet met het vraagvenster met
+keuzeknoppen). Daarin kiest de gebruiker wat ze wil: de basis aanpassen of opnieuw maken, of
+een kanaaldocument erbij (salespagina's, social content, e-mails en DM's). Dat formulier
+vervangt Fase 1, Fase 2 en de materiaalvraag uit Fase 3.
 
-> "Voor we beginnen: waarvoor wil je een tone of voice vastleggen?
->
-> 1. **Algemeen** — één tone of voice voor alles wat je schrijft. Klaar.
-> 2. **Algemeen plus specifiek per kanaal** — je krijgt de algemene basis én een uitgewerkt
->    document per kanaal dat je kiest. Je kunt er meerdere kiezen:
->    - salespagina's
->    - content op social media
->    - e-mails en DM's
->
-> Wat wordt het?"
+**Vraagt de gebruiker zelf om een kanaal,** bijvoorbeeld "tone of voice voor social content"
+of omdat Claude Content Studio haar hierheen stuurt voor social content, dan maak je dat
+kanaaldocument. Staat het basisdocument er nog niet, dan maak je eerst de basis en daarna het
+kanaal. Zeg dat in één zin: "Ik maak eerst je algemene tone of voice, want een kanaaldocument
+legt alleen vast wat daar anders is."
 
-De volledige uitwerking, inclusief wat je zegt als de gebruiker twijfelt of alleen kanalen
-kiest, staat in `references/vragen.md` onder "Vooraf: de reikwijdte".
+**Anders maak je alleen het algemene document.** Dit is de route in Business DNA: één tone of
+voice voor alles wat je schrijft. Vraag niet naar kanalen en bied ze niet aan. Een
+kanaaldocument komt er pas als de gebruiker daar later om vraagt.
 
-Noteer de keuze. Die bepaalt de rest van het gesprek: welk materiaal je vraagt, welke modules
-je maakt en hoeveel documenten je aan het eind wegschrijft. Vraag er later niet opnieuw naar.
-
-**Kiest de gebruiker optie 1 (alleen algemeen), waarschuw dan één keer:**
-
-> "Prima. Eén ding wil je weten voor we doorgaan: werk je in Claude Content Studio, dan
-> leest de caption-skill twee aparte documenten voor social content uit: één met je
-> skeletten en haakpatronen, en één met vijf van je eigen posts als stijlvoorbeeld. Zonder
-> die documenten schrijft hij op je algemene tone of voice, en dan klinkt het correct maar
-> niet als jij.
->
-> Zal ik social content erbij doen, of houden we het bij algemeen?"
-
-Zegt zij nee, dan is dat haar keuze. Ga door en kom er niet op terug.
-
-Wil de gebruiker halverwege alsnog een kanaal erbij, dan kan dat. Dat is één module extra,
-geen nieuw gesprek.
+Noteer wat je maakt. Dat bepaalt de rest van het gesprek: welk materiaal je vraagt, welke
+modules je maakt en hoeveel documenten je aan het eind wegschrijft. Wil de gebruiker halverwege
+alsnog een kanaal erbij, dan kan dat. Dat is één module extra, geen nieuw gesprek.
 
 ---
 
@@ -496,7 +475,8 @@ Dit is het laatste document. Sluit af, in twee delen in één bericht:
 
 ## VERMIJD
 
-- Beginnen zonder de reikwijdtevraag uit Fase 1.
+- In Business DNA naar kanalen vragen of ze aanbieden. Een kanaaldocument komt er alleen op
+  verzoek.
 - Het basisdocument overslaan omdat de gebruiker alleen een kanaal noemde.
 - Een kanaalmodule maken die het basisdocument herhaalt in plaats van de verschillen vastlegt.
 - Een skelet verzinnen dat niet in haar teksten terugkomt.
@@ -527,7 +507,7 @@ Dit is het laatste document. Sluit af, in twee delen in één bericht:
 |---|---|
 | `references/secties.md` | De vijf secties van het basisdocument, wat erin moet, en de drempel per sectie |
 | `references/kanaalmodules.md` | De kanaaldocumenten: wat erin moet, de skeletten, en de drempel per module |
-| `references/vragen.md` | De reikwijdtevraag, de materiaalvraag, en wat je aflees en vraagt per sectie en per module |
+| `references/vragen.md` | Wat je maakt (basis of kanaal), de materiaalvraag, en wat je aflees en vraagt per sectie en per module |
 | `references/notion-protocol.md` | Omgeving vinden, routes, wegschrijven naar meerdere pagina's |
 | `references/rommelige-input.md` | Verwerken van ingesproken of associatieve input |
 | `references/wijzigformulier.md` | Het formulier waarmee je begint als er al een document staat, en wat je met de antwoorden doet |

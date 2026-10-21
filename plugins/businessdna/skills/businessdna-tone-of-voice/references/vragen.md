@@ -10,46 +10,27 @@ schrijft in plaats van dat je het observeert.
 
 ---
 
-## Vooraf: de reikwijdte
+## Vooraf: wat je maakt
 
-Dit is de allereerste vraag van de skill, vóór nieuw-of-aanvullen en vóór het materiaal.
-Stel hem in één keer, met de opties eronder:
+Je stelt hier geen vraag over. In Business DNA maak je het algemene document. Een
+kanaaldocument maak je alleen als de gebruiker erom vraagt, of als ze het in het
+wijzigformulier aanvinkt (zie Fase 1 van de skill).
 
-> "Voor we beginnen: waarvoor wil je een tone of voice vastleggen?
->
-> 1. **Algemeen** — één tone of voice voor alles wat je schrijft. Klaar.
-> 2. **Algemeen plus specifiek per kanaal** — je krijgt de algemene basis én een uitgewerkt
->    document per kanaal dat je kiest. Je kunt er meerdere kiezen:
->    - salespagina's
->    - content op social media
->    - e-mails en DM's
->
-> Wat wordt het?"
+**Vraagt iemand alleen om een kanaal en is er nog geen basis,** leg dan uit waarom de basis er
+eerst komt:
 
-**De basis maak je altijd.** Kiest iemand alleen kanalen, leg dan uit waarom de basis er toch
-komt:
-
-> "De basis maak ik sowieso, want een kanaaldocument is zonder die basis niet te lezen: dan
+> "De basis maak ik eerst, want een kanaaldocument is zonder die basis niet te lezen: dan
 > staat er dat je op je salespagina korter schrijft, zonder dat ergens vastligt hoe je normaal
 > schrijft. De kanaaldocumenten leggen alleen de verschillen vast."
 
-**Twijfelt de gebruiker**, geef dan het onderscheid in één zin en laat haar kiezen:
-
-> "Kort gezegd: algemeen is genoeg als je op alle kanalen ongeveer hetzelfde klinkt. Merk je
-> dat je op een salespagina echt een andere modus aanzet dan in een post, dan is de
-> kanaalversie het waard."
-
-Noteer de keuze en herhaal hem later niet meer als vraag. Wil de gebruiker halverwege alsnog
-een kanaal erbij, dan kan dat: dat is een module extra, niet een nieuw gesprek.
-
-**Bij de keuze voor kanalen** vraag je meteen door op wat er per kanaal aan materiaal nodig
-is, zie de volgende paragraaf.
+**Bij een kanaal** vraag je meteen door op wat er per kanaal aan materiaal nodig is, zie de
+volgende paragraaf.
 
 ---
 
 ## Vooraf: voorbeelden en templates
 
-De tweede vraag, na de reikwijdte en na nieuw-of-aanvullen. Vraag om twee dingen tegelijk,
+De eerste vraag, na nieuw-of-aanvullen. Vraag om twee dingen tegelijk,
 want ze doen iets anders:
 
 > "Nu het materiaal. Ik heb twee soorten dingen van je nodig:

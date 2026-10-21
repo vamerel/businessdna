@@ -34,7 +34,7 @@ de nieuwe versie vanzelf in Claude; je hoeft niets opnieuw te installeren.
 
 **Eenmalig vooraf:** download de Business DNA-template met de knop die je bij je
 aankoop hebt gekregen, dupliceer hem naar je eigen Notion-workspace en koppel Notion
-aan Claude via de connector. Roep daarna
+aan Claude via Aanpassingen (Customize) > Connectors. Roep daarna
 `@businessdna-setup` aan; die controleert of alles klaarstaat en maakt de submappen in
 je map CLAUDE.
 
@@ -93,5 +93,5 @@ Studio maakt daar een eigen map Business Brand Guidelines voor aan.
 
 `SAMENVATTING.md` is de korte versie: het bestand dat je in een andere AI-chat sleept als je niet je
 hele merk-DNA wilt meesturen. De skills vullen hem niet tussentijds — hij wordt in één keer
-opgebouwd als alle vijf de documenten compleet zijn. Je maakt hem met de prompt uit de les
-De korte versie maken, en opnieuw na elke wijziging.
+opgebouwd als alle vijf de documenten compleet zijn. Je maakt hem met de prompt uit de leeromgeving
+van Business DNA, en opnieuw na elke wijziging.
